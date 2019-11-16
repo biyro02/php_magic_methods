@@ -1,3 +1,4 @@
+<?php
 class magic_method_class{
   public static $columns = ['id', 'table', 'row', 'column'];
   public $array=[];
